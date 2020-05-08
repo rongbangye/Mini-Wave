@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "343009866197",
+    "firebase_url": "https://mini-waze.firebaseio.com",
+    "project_id": "mini-waze",
+    "storage_bucket": "mini-waze.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343009866197:android:6731420b7c4828caaf8d5c",
+        "android_client_info": {
+          "package_name": "com.laioffer.mini_waze"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343009866197-fqo067d79ajvpcijqmh185a5a8cu41eo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW4hLzqMxinRz96j20TeZJj30XY1jXAAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343009866197-fqo067d79ajvpcijqmh185a5a8cu41eo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
